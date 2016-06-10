@@ -11,3 +11,6 @@ with a little twist of our own:
 1. Gulp instead of Grunt
 2. ES6 features
 3. Mocha instead of Jasmine
+
+# Inspiration
+1. [Make gulp work with ES6](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
