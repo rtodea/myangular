@@ -14,3 +14,4 @@ with a little twist of our own:
 
 # Inspiration
 1. [Make gulp work with ES6](https://markgoodyear.com/2015/06/using-es6-with-gulp/)
+2. [Make Karma work with ES6](https://github.com/karma-runner/karma/issues/1597#issuecomment-165908585)
